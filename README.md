@@ -57,26 +57,9 @@ With each level, the challenge increases — more speed, more chaos, more fun!
     cd src
     ```
 
-2. **Compile all Java files:**
-
-    ```bash
-    javac finalproject1/*.java
-    ```
-
-3. **Run the game:**
+2. **Run the game:**
 
     ```bash
     java finalproject1.Main
     ```
-
----
-
-### 💡 Tips
-
-- ถ้าไฟล์ภาพไม่แสดง → ตรวจสอบว่า `assets/` อยู่ใน root เดียวกับที่รันโปรแกรม
-- รันผ่าน VS Code ได้ถ้าติดตั้ง `Java Extension Pack` แล้วกดปุ่ม ▶ ที่ `Main.java`
-
----
-
-## 📁 Project Structure
 
